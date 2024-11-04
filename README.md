@@ -15,7 +15,7 @@ Link to our [presentation](https://www.canva.com/design/DAGVP0jqEZk/Nyy9MDKBYrzP
    * Supervised Learning: 
      * Regression models with non-Gaussian distributed targets.
      * Balanced and imbalanced classification models.
-   * Unsupervised Learning: use of unsupervised models for tasks like clustering and dimensionality reduction.
+   * Unsupervised Learning: use of unsupervised algorithms for tasks like clustering and dimensionality reduction.
 
 3. Handling Categorical Variables with `OneHotEncoder` to minimize errors caused by mismatches in categorical values between training, validation, and testing datasets.
    
