@@ -4,6 +4,8 @@
 
 This repository is the solution to a team challenge focused on leveraging machine learning pipelines across various scenarios. The aim is to automate and streamline workflows and promote best practices in data preprocessing, hyperparameter tuning, and model evaluation, all within a scalable and reproducible setup.
 
+Link to our [presentation](https://www.canva.com/design/DAGVP0jqEZk/zmgYhira7bpiZJP5QPsSTw/edit?utm_content=DAGVP0jqEZk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) (spanish)
+
 
 ### Objectives
 
@@ -22,7 +24,7 @@ This repository is the solution to a team challenge focused on leveraging machin
 6. Regression with Non-Gaussian Distributed Targets
 
 7. Classification with Imbalanced Targets
-  
+
 
 ### Authors
 - [mailliwJ](https://github.com/mailliwJ)
